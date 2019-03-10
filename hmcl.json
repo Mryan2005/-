@@ -7,7 +7,7 @@
   "hasProxyAuth": false,
   "proxyType": "HTTP",
   "proxyPort": 0,
-  "theme": "blue",
+  "theme": "#5c6bc0",
   "localization": "def",
   "downloadType": "bmclapi",
   "configurations": {
@@ -63,23 +63,11 @@
         "defaultJavaPath": ""
       },
       "gameDir": "C:\\Users\\Administrator\\AppData\\Roaming\\.minecraft",
-      "useRelativePath": false
+      "useRelativePath": false,
+      "selectedMinecraftVersion": ""
     }
   },
-  "accounts": [
-    {
-      "serverBaseURL": "https://mcskin.i-creator.cn/api/yggdrasil/",
-      "clientToken": "b30ef01fdd3541f6aad3cacad4d158f2",
-      "displayName": "Mryan",
-      "userProperties": {},
-      "accessToken": "6d0e866b75cf4ca680ee5e0da393a7d7",
-      "type": "authlibInjector",
-      "uuid": "682019e619fa31018a612061717e4e54",
-      "userid": "d1809188c5d755759d258f8d78fbb8d0",
-      "selected": true,
-      "username": "A2564011261@163.com"
-    }
-  ],
+  "accounts": [],
   "fontFamily": "Consolas",
   "fontSize": 12.0,
   "logLines": 100,
@@ -87,7 +75,7 @@
     {
       "url": "https://mcskin.i-creator.cn/api/yggdrasil/",
       "metadataResponse": "{\"meta\":{\"serverName\":\"Redstone MC skin\\u2014\\u2014\\u6211\\u7684\\u4e16\\u754c\\u76ae\\u80a4\\u7ad9\",\"implementationName\":\"Yggdrasil API for Blessing Skin\",\"implementationVersion\":\"2.1.10\",\"links\":{\"homepage\":\"https:\\/\\/mcskin.i-creator.cn\",\"register\":\"https:\\/\\/mcskin.i-creator.cn\\/auth\\/register\"}},\"skinDomains\":[\"mcskin.i-creator.cn\"],\"signaturePublickey\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAv+8Xta7unLeXDMndrN7R\\nSpt5yD\\/\\/PGvz1xkwM9gDvLW9\\/3lGyOBK\\/QtimYqzmFueCv6U37iHFk9+Q0xK44MB\\nYhDG\\/hViKl1OmNRyKbTnC9rFYDHvCyNO8ILzym4h41MaJvVfpiNcdji9pAME1P3I\\nxsu9MJmuEkIObUeztZFaWuP7VCh3r5YBBeAZAx2CFKs+G9SwaH4AwqkQDkOdkBgb\\n8UYIQMeTynnEqRffetUUkG05Lj3fAAfv6PVaeHUBtHV4gkM+TIEyZh3KrefNo8+G\\nWj\\/t7Qdmu8weoan2wtCgWqoR577eQPa4KWqTEZStRGja4HeCZ9\\/Ts7kLKJ1OX6kH\\nZcU0F8ZL2GAgvZmGEFwVKVUdwO4lJWSdm61ZsdVdtlIvi2WsESxT1NbD+51NnC8r\\n8+RLDl6E\\/zaoxkYhEDsLtUAu1qRLJXqgiRdL4RJ+uAeFcFoHaUkX7KlNRZnb\\/g5L\\n+SLSsmlZE6BLdHB1bEFFdW9GziwX9yk\\/fwEJOLnE4NN696gowgqNIxeyDVBOdPWV\\n4YKj0ChHQgn+5RNlglnNKk20a37oXFMpDGGEzMA+TBEJ6NTNFSBBewrpREdOgsvG\\n3+iAyB7fGvSS9+qi6OzKVHWMYPlIe5Yo2\\/cXGAb15O3y6yk1MSmkSM\\/2qk4juTNk\\nr9ro46PL5zKJ8O3on4jJzt0CAwEAAQ\u003d\u003d\\n-----END PUBLIC KEY-----\\n\"}",
-      "metadataTimestamp": 1552193375481
+      "metadataTimestamp": 1552194648064
     }
   ],
   "updateChannel": "STABLE",
